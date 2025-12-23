@@ -1,20 +1,15 @@
 # Papers
 
-This directory contains research papers, drafts, and publication-related materials developed as part of the **Febriyansyah Research Lab**.
+This directory contains research papers, drafts, and publication-related materials developed under the **Febriyansyah Research Lab**.
 
-The focus of these papers is on applied and empirical research at the intersection of:
+The purpose of this folder is to provide a **structured, transparent, and reproducible record of academic research work**, from early ideas to published papers.
+
+Research areas covered include:
 - Systems Engineering
 - Cybersecurity
 - Machine Learning
 - Financial & Banking Systems
-- Risk, Observability, and Infrastructure
-
-This folder is designed to support **academic rigor, reproducibility, and long-term research continuity**.
-
----
-
-## 📂 Directory Structure
-
+- Risk Management, Observability, and Infrastructure
 
 ---
 
@@ -32,22 +27,22 @@ This folder is designed to support **academic rigor, reproducibility, and long-t
 ## 🧪 Drafts (`drafts/`)
 
 The `drafts/` directory contains:
-- Initial research ideas
+- Initial research ideas and conceptual manuscripts
 - Iterative manuscript versions (v1, v2, v3, etc.)
-- Methodology and experiment notes linked to notebooks
+- Methodology notes and experiment references linked to notebooks
 
-Drafts may be incomplete and are intended to document the **research thinking process**, not only final results.
+Drafts may be incomplete and are intentionally preserved to document the **research thinking and iteration process**, not only final results.
 
 ---
 
 ## 📤 Submissions (`submissions/`)
 
 The `submissions/` directory may include:
-- Submitted manuscripts (PDF or source)
-- Cover letters
-- Response to reviewers (when applicable)
+- Submitted manuscripts (PDF or source files)
+- Cover letters to journals or conferences
+- Response-to-reviewer documents (when applicable)
 
-> Note: Sensitive reviewer comments or confidential materials are sanitized before inclusion.
+> Sensitive reviewer comments or confidential information are sanitized or anonymized before inclusion.
 
 ---
 
@@ -56,7 +51,9 @@ The `submissions/` directory may include:
 The `published/` directory contains:
 - Final accepted paper PDFs
 - Citation files (`.bib`)
-- DOI or publication links (when available)
+- DOI or official publication links (when available)
+
+Only publicly shareable versions of published papers are stored here.
 
 ---
 
@@ -65,9 +62,9 @@ The `published/` directory contains:
 Reusable templates for:
 - Journal articles
 - Conference papers
-- Structured research reports
+- Structured research and technical reports
 
-These templates help maintain **format consistency and submission efficiency**.
+These templates are maintained to ensure **format consistency, writing efficiency, and submission readiness**.
 
 ---
 
@@ -78,6 +75,7 @@ These templates help maintain **format consistency and submission efficiency**.
   - Publicly available, or
   - Described via metadata only.
 - Institutional, banking, or client-specific information is anonymized.
+- This repository complies with ethical research and data-handling principles.
 
 ---
 
@@ -85,7 +83,7 @@ These templates help maintain **format consistency and submission efficiency**.
 
 - Experimental notebooks: see `/experiments` or `/notebooks`
 - Scripts and tooling: see `/scripts`
-- Research overview: see repository-level `README.md`
+- Research overview and scope: see repository-level `README.md`
 
 ---
 
@@ -96,4 +94,4 @@ This repository prioritizes:
 - Reproducibility over results-only reporting
 - Long-term research traceability
 
-Drafts, failed experiments, and negative results are considered valuable research artifacts.
+Drafts, failed experiments, and negative results are considered **valuable research artifacts** and are preserved as part of the scientific process.
