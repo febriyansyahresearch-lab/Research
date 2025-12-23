@@ -1,6 +1,6 @@
 ---
 title: "Sentiment Analysis of Political Speech Text"
-author: "Vania Saraswati"
+author: "Febriyansyah"
 project: "Text & Sentiment Analysis"
 tags:
   - sentiment-analysis
